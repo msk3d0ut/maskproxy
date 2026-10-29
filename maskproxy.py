@@ -3,7 +3,7 @@
 """
 MaskProxy - proxy checker, harvester and analyzer (SOCKS4 / SOCKS5 / HTTP)
 
-Author  : msk3du0t
+Author  : msk3d0ut
 License : MIT
 Needs   : Python 3.9+  (standard library only - nothing to install)
 
@@ -40,7 +40,7 @@ if sys.version_info < (3, 9):
 
 APP = "MaskProxy"
 VERSION = "1.0.0"
-AUTHOR = "msk3du0t"
+AUTHOR = "msk3d0ut"
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
