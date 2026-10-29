@@ -2,7 +2,7 @@
 
 # MaskProxy
 
-**Proxy checker · harvester · analyzer — SOCKS4 / SOCKS5 / HTTP**
+**Proxy checker · harvester · analyzer - SOCKS4 / SOCKS5 / HTTP**
 
 One file. Zero dependencies. Windows, Linux, macOS and Android (Termux).
 
