@@ -29,7 +29,7 @@ One file. Zero dependencies. Windows, Linux, macOS and Android (Termux).
 ## Quick start
 
 ```bash
-git clone https://github.com/msk3du0t/maskproxy.git
+git clone https://github.com/msk3d0ut/maskproxy.git
 cd maskproxy
 python maskproxy.py          # interactive menu
 ```
@@ -83,6 +83,6 @@ Free public proxies are operated by unknown third parties. Treat them as untrust
 
 <div align="center">
 
-**MaskProxy** · made by **msk3du0t** · MIT License
+**MaskProxy** · made by **msk3d0ut** · MIT License
 
 </div>
