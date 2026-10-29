@@ -6,11 +6,11 @@
 
 One file. Zero dependencies. Windows, Linux, macOS and Android (Termux).
 
-![Python](https://img.shields.io/badge/python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dependencies](https://img.shields.io/badge/dependencies-none-2BFF88?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos%20%7C%20termux-8A8FA3?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-FF3DCB?style=for-the-badge)
-![Made by](https://img.shields.io/badge/made%20by-msk3du0t-00E5FF?style=for-the-badge)
+[![Python](https://img.shields.io/badge/python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=161B22)](https://www.python.org/downloads/)
+[![Dependencies](https://img.shields.io/badge/dependencies-none-2BFF88?style=flat-square&labelColor=161B22)](#install)
+[![Platforms](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos%20%7C%20termux-966EFF?style=flat-square&labelColor=161B22)](#install)
+[![License](https://img.shields.io/badge/license-MIT-FF3DCB?style=flat-square&labelColor=161B22)](LICENSE)
+[![Made by](https://img.shields.io/badge/made%20by-msk3d0ut-00E5FF?style=flat-square&logo=github&logoColor=white&labelColor=161B22)](https://github.com/msk3d0ut)
 
 </div>
 
